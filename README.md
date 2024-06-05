@@ -17,4 +17,4 @@
 
 
 **Мои контакты:**
-![Телеграм](https://t.me/LenaMitrofanov)
+[Телеграм](https://t.me/LenaMitrofanov){:target="_blank"}
