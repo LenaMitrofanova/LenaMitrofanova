@@ -17,5 +17,7 @@
 
 
 **Мои контакты:**
+
 [Телеграм](https://t.me/LenaMitrofanov)
-[email](elena.mitrofanova.1991@bk.ru)
+
+elena.mitrofanova.1991@bk.ru
